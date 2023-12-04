@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_9pNycSfOEeGAD_UdZbbVcQ" label="Mission_Talend" description="" language="java" technicalLabel="MISSION_TALEND" local="true" author="_9pNydifOEeGAD_UdZbbVcQ" productVersion="Talend Open Studio for Data Integration-8.0.1.20211109_1610" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_Bv8rwySoEeWew6o1TKsXLw" name="tOpenbravoERPInput" hidden="true" family="Business/Open Bravo"/>
+    <componentsSettings xmi:id="_Bv8rxySoEeWew6o1TKsXLw" name="DI|tGreenplumConnection" hidden="true" family="Databases/Greenplum"/>
+    <componentsSettings xmi:id="_Bv8ryCSoEeWew6o1TKsXLw" name="DI|tGreenplumConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_Bv8ryySoEeWew6o1TKsXLw" name="DI|tELTTeradataInput" hidden="true" family="ELT/Map/Teradata"/>
+    <componentsSettings xmi:id="_Bv9S0CSoEeWew6o1TKsXLw" name="DI|tAmazonMysqlOutput" hidden="true" family="Databases/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_Bv9S0SSoEeWew6o1TKsXLw" name="DI|tAmazonMysqlOutput" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_Bv9S1CSoEeWew6o1TKsXLw" name="DI|tCombinedSQLInput" hidden="true" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_Bv9S1SSoEeWew6o1TKsXLw" name="tELTJDBCInput" hidden="true" family="ELT/Map/DB_JDBC"/>
+    <componentsSettings xmi:id="_Bv9S1ySoEeWew6o1TKsXLw" name="DI|tMarketoOutput" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_Bv9S2CSoEeWew6o1TKsXLw" name="DI|tMarketoOutput" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_Bv9S3SSoEeWew6o1TKsXLw" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_Bv9S3iSoEeWew6o1TKsXLw" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_Bv955ySoEeWew6o1TKsXLw" name="DI|tELTSybaseInput" hidden="true" family="ELT/Map/Sybase"/>
+    <componentsSettings xmi:id="_Bv956SSoEeWew6o1TKsXLw" name="DI|tELTMysqlMap" hidden="true" family="ELT/Map/MySQL"/>
+    <componentsSettings xmi:id="_Bv957ySoEeWew6o1TKsXLw" name="tSAPOutput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_Bv958SSoEeWew6o1TKsXLw" name="tSugarCRMInput" hidden="true" family="Business/SugarCRM"/>
+    <componentsSettings xmi:id="_Bv958iSoEeWew6o1TKsXLw" name="tSugarCRMInput" hidden="true" family="Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_Bv959CSoEeWew6o1TKsXLw" name="DI|tELTPostgresqlOutput" hidden="true" family="ELT/Map/PostgreSQL"/>
+    <componentsSettings xmi:id="_Bv-g8CSoEeWew6o1TKsXLw" name="DI|tELTGreenplumMap" hidden="true" family="ELT/Map/Greenplum"/>
+    <componentsSettings xmi:id="_Bv-g8SSoEeWew6o1TKsXLw" name="tMDMInput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Bv-g-CSoEeWew6o1TKsXLw" name="DI|tELTOracleOutput" hidden="true" family="ELT/Map/Oracle"/>
+    <componentsSettings xmi:id="_Bv-g-ySoEeWew6o1TKsXLw" name="tFireRulesVirtual" hidden="true" family="Processing"/>
+    <componentsSettings xmi:id="_Bv_IACSoEeWew6o1TKsXLw" name="tIngresConnection" hidden="true" family="Databases/Ingres"/>
+    <componentsSettings xmi:id="_Bv_IASSoEeWew6o1TKsXLw" name="DI|tGSConnection" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_Bv_IAiSoEeWew6o1TKsXLw" name="DI|tGSConnection" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_Bv_vECSoEeWew6o1TKsXLw" name="DI|tDotNETRow" hidden="true" family="DotNET"/>
+    <componentsSettings xmi:id="_Bv_vEySoEeWew6o1TKsXLw" name="DI|tHiveConnection" hidden="true" family="Databases/Hive"/>
+    <componentsSettings xmi:id="_Bv_vFCSoEeWew6o1TKsXLw" name="DI|tHiveConnection" hidden="true" family="Big Data/Hive"/>
+    <componentsSettings xmi:id="_BwAWICSoEeWew6o1TKsXLw" name="DI|tELTNetezzaMap" hidden="true" family="ELT/Map/Netezza"/>
+    <componentsSettings xmi:id="_BwAWIiSoEeWew6o1TKsXLw" name="DI|tELTNode" hidden="true" family="ELT"/>
+    <componentsSettings xmi:id="_BwAWJCSoEeWew6o1TKsXLw" name="tHL7Input" hidden="true" family="Business/Healthcare"/>
+    <componentsSettings xmi:id="_BwA9MCSoEeWew6o1TKsXLw" name="tHL7Input" hidden="true" family="Unstructured/HL7"/>
+    <componentsSettings xmi:id="_BwWUYCSoEeWew6o1TKsXLw" name="DI|tMicrosoftCrmOutput" hidden="true" family="Business/Microsoft_CRM"/>
+    <componentsSettings xmi:id="_BwWUYSSoEeWew6o1TKsXLw" name="DI|tAmazonOracleCommit" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_BwWUYySoEeWew6o1TKsXLw" name="tSageX3Output" hidden="true" family="Business/SageX3"/>
+    <componentsSettings xmi:id="_BwW7cCSoEeWew6o1TKsXLw" name="DI|tSQLTemplateFilterRows" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_BwW7cSSoEeWew6o1TKsXLw" name="DI|tCloudStart" hidden="true" family="Cloud"/>
+    <componentsSettings xmi:id="_BwXigCSoEeWew6o1TKsXLw" name="DI|tAmazonOracleInput" hidden="true" family="Databases/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_BwXigSSoEeWew6o1TKsXLw" name="tAlfrescoOutput" hidden="true" family="Business/Alfresco"/>
+    <componentsSettings xmi:id="_BwXihCSoEeWew6o1TKsXLw" name="tMSAXInput" hidden="true" family="Business/Microsoft_AX"/>
+    <componentsSettings xmi:id="_BwZ-wSSoEeWew6o1TKsXLw" name="DI|tBonitaInstantiateProcess" hidden="true" family="Business/Bonita"/>
+    <componentsSettings xmi:id="_Bwal0CSoEeWew6o1TKsXLw" name="tCentricCRMInput" hidden="true" family="Business/CentricCRM"/>
+    <componentsSettings xmi:id="_BwcbACSoEeWew6o1TKsXLw" name="tVtigerCRMInput" hidden="true" family="Business/VtigerCRM"/>
+    <componentsSettings xmi:id="_Gd180OEqEeWCtPq3qsPKaA" name="tMDMInput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd180eEqEeWCtPq3qsPKaA" name="tStewardshipTaskDelete" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd180uEqEeWCtPq3qsPKaA" name="tMDMTriggerOutput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd180-EqEeWCtPq3qsPKaA" name="tMDMOutput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd181OEqEeWCtPq3qsPKaA" name="tStewardshipTaskOutput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j4OEqEeWCtPq3qsPKaA" name="tMDMRollback" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j4eEqEeWCtPq3qsPKaA" name="tMDMSP" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j4uEqEeWCtPq3qsPKaA" name="tMDMReceive" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j4-EqEeWCtPq3qsPKaA" name="tMDMCommit" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j5OEqEeWCtPq3qsPKaA" name="tMDMClose" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j5eEqEeWCtPq3qsPKaA" name="tMDMBulkLoad" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j5uEqEeWCtPq3qsPKaA" name="tMDMConnection" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j5-EqEeWCtPq3qsPKaA" name="tMDMDelete" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j6OEqEeWCtPq3qsPKaA" name="tMDMRouteRecord" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j6eEqEeWCtPq3qsPKaA" name="tMDMTriggerInput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j6uEqEeWCtPq3qsPKaA" name="tStewardshipTaskInput" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_Gd2j6-EqEeWCtPq3qsPKaA" name="tMDMViewSearch" hidden="true" family="Talend MDM"/>
+    <componentsSettings xmi:id="_H0UnkOEqEeWCtPq3qsPKaA" name="DI|tGSBucketList" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnkeEqEeWCtPq3qsPKaA" name="DI|tHiveRow" hidden="true" family="Databases/Hive"/>
+    <componentsSettings xmi:id="_H0UnkuEqEeWCtPq3qsPKaA" name="DI|tGSBucketExist" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0Unk-EqEeWCtPq3qsPKaA" name="DI|tGSBucketCreate" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnlOEqEeWCtPq3qsPKaA" name="DI|tGSGet" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnleEqEeWCtPq3qsPKaA" name="DI|tGSDelete" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnluEqEeWCtPq3qsPKaA" name="DI|tGSCopy" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0Unl-EqEeWCtPq3qsPKaA" name="DI|tHiveClose" hidden="true" family="Databases/Hive"/>
+    <componentsSettings xmi:id="_H0UnmOEqEeWCtPq3qsPKaA" name="DI|tGSClose" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnmeEqEeWCtPq3qsPKaA" name="DI|tGSConnection" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnmuEqEeWCtPq3qsPKaA" name="DI|tGSBucketDelete" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0Unm-EqEeWCtPq3qsPKaA" name="DI|tGSPut" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_H0UnnOEqEeWCtPq3qsPKaA" name="DI|tHiveConnection" hidden="true" family="Databases/Hive"/>
+    <componentsSettings xmi:id="_H0UnneEqEeWCtPq3qsPKaA" name="DI|tGSList" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKEOEeEqEeWCtPq3qsPKaA" name="DI|tSalesforceOutputBulk" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKEOE-EqEeWCtPq3qsPKaA" name="DI|tSalesforceInput" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKEOFOEqEeWCtPq3qsPKaA" name="DI|tSalesforceConnection" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKEOFeEqEeWCtPq3qsPKaA" name="DI|tGSConnection" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1IeEqEeWCtPq3qsPKaA" name="tSugarCRMInput" hidden="true" family="Business/SugarCRM|Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_IKE1IuEqEeWCtPq3qsPKaA" name="DI|tAmazonOracleInput" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKE1I-EqEeWCtPq3qsPKaA" name="tSugarCRMOutput" hidden="true" family="Business/SugarCRM|Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_IKE1JOEqEeWCtPq3qsPKaA" name="DI|tGSPut" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1JeEqEeWCtPq3qsPKaA" name="DI|tMarketoOutput" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_IKE1JuEqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlConnection" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKE1J-EqEeWCtPq3qsPKaA" name="DI|tGSBucketList" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1KOEqEeWCtPq3qsPKaA" name="DI|tSalesforceBulkExec" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKE1KuEqEeWCtPq3qsPKaA" name="DI|tCloudStart" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1K-EqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlClose" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKE1LOEqEeWCtPq3qsPKaA" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKE1LeEqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlCommit" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKE1LuEqEeWCtPq3qsPKaA" name="DI|tGSClose" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1L-EqEeWCtPq3qsPKaA" name="DI|tAmazonOracleRow" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKE1MeEqEeWCtPq3qsPKaA" name="DI|tGSList" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1MuEqEeWCtPq3qsPKaA" name="DI|tGSBucketExist" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1M-EqEeWCtPq3qsPKaA" name="DI|tGSBucketCreate" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1NOEqEeWCtPq3qsPKaA" name="DI|tGSGet" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKE1NeEqEeWCtPq3qsPKaA" name="DI|tGSDelete" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKFcMOEqEeWCtPq3qsPKaA" name="DI|tAmazonOracleConnection" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKFcMeEqEeWCtPq3qsPKaA" name="DI|tGSCopy" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKFcMuEqEeWCtPq3qsPKaA" name="DI|tSalesforceGetDeleted" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKFcNOEqEeWCtPq3qsPKaA" name="DI|tSalesforceGetUpdated" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKFcNeEqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlOutput" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKFcNuEqEeWCtPq3qsPKaA" name="DI|tAmazonOracleRollback" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKFcN-EqEeWCtPq3qsPKaA" name="DI|tAmazonOracleOutput" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKFcOOEqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlRow" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKFcOeEqEeWCtPq3qsPKaA" name="DI|tMarketoListOperation" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_IKFcOuEqEeWCtPq3qsPKaA" name="DI|tAmazonOracleCommit" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKFcO-EqEeWCtPq3qsPKaA" name="DI|tCloudStop" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKFcPOEqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlRollback" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKFcPuEqEeWCtPq3qsPKaA" name="DI|tMarketoInput" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_IKFcP-EqEeWCtPq3qsPKaA" name="DI|tSalesforceOutput" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_IKFcQOEqEeWCtPq3qsPKaA" name="DI|tAmazonOracleClose" hidden="true" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_IKFcQ-EqEeWCtPq3qsPKaA" name="DI|tAmazonMysqlInput" hidden="true" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_IKGDQOEqEeWCtPq3qsPKaA" name="DI|tGSBucketDelete" hidden="true" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_IKGDQeEqEeWCtPq3qsPKaA" name="DI|tSalesforceOutputBulkExec" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiUacOEqEeWCtPq3qsPKaA" name="tSAPRollback" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiUaceEqEeWCtPq3qsPKaA" name="tCentricCRMOutput" hidden="true" family="Business/CentricCRM"/>
+    <componentsSettings xmi:id="_JiVBgOEqEeWCtPq3qsPKaA" name="tSAPCommit" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBgeEqEeWCtPq3qsPKaA" name="DI|tSalesforceOutputBulk" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBguEqEeWCtPq3qsPKaA" name="DI|tSalesforceInput" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBg-EqEeWCtPq3qsPKaA" name="tVtigerCRMOutput" hidden="true" family="Business/VtigerCRM"/>
+    <componentsSettings xmi:id="_JiVBhOEqEeWCtPq3qsPKaA" name="DI|tSalesforceConnection" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBheEqEeWCtPq3qsPKaA" name="tOpenbravoERPOutput" hidden="true" family="Business/Open Bravo"/>
+    <componentsSettings xmi:id="_JiVBhuEqEeWCtPq3qsPKaA" name="DI|tSalesforceGetDeleted" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBh-EqEeWCtPq3qsPKaA" name="tVtigerCRMInput" hidden="true" family="Business/VtigerCRM"/>
+    <componentsSettings xmi:id="_JiVBiOEqEeWCtPq3qsPKaA" name="tMSAXOutput" hidden="true" family="Business/Microsoft_AX"/>
+    <componentsSettings xmi:id="_JiVBieEqEeWCtPq3qsPKaA" name="tSAPIDocOutput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBiuEqEeWCtPq3qsPKaA" name="DI|tSalesforceGetUpdated" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBi-EqEeWCtPq3qsPKaA" name="tSAPConnection" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBjOEqEeWCtPq3qsPKaA" name="tSugarCRMInput" hidden="true" family="Business/SugarCRM|Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_JiVBjeEqEeWCtPq3qsPKaA" name="tAlfrescoOutput" hidden="true" family="Business/Alfresco"/>
+    <componentsSettings xmi:id="_JiVBjuEqEeWCtPq3qsPKaA" name="DI|tMarketoListOperation" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_JiVBj-EqEeWCtPq3qsPKaA" name="tSugarCRMOutput" hidden="true" family="Business/SugarCRM|Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_JiVBkOEqEeWCtPq3qsPKaA" name="DI|tBonitaDeploy" hidden="true" family="Business/Bonita"/>
+    <componentsSettings xmi:id="_JiVBkeEqEeWCtPq3qsPKaA" name="DI|tMicrosoftCrmInput" hidden="true" family="Business/Microsoft_CRM"/>
+    <componentsSettings xmi:id="_JiVBkuEqEeWCtPq3qsPKaA" name="DI|tMarketoOutput" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_JiVBk-EqEeWCtPq3qsPKaA" name="tHL7Input" hidden="true" family="Business/Healthcare|Unstructured/HL7"/>
+    <componentsSettings xmi:id="_JiVBlOEqEeWCtPq3qsPKaA" name="tSAPIDocInput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBleEqEeWCtPq3qsPKaA" name="DI|tSalesforceBulkExec" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBluEqEeWCtPq3qsPKaA" name="DI|tMarketoInput" hidden="true" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_JiVBl-EqEeWCtPq3qsPKaA" name="tSAPInput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBmOEqEeWCtPq3qsPKaA" name="tSAPBWInput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBmeEqEeWCtPq3qsPKaA" name="tCentricCRMInput" hidden="true" family="Business/CentricCRM"/>
+    <componentsSettings xmi:id="_JiVBmuEqEeWCtPq3qsPKaA" name="tSageX3Output" hidden="true" family="Business/SageX3"/>
+    <componentsSettings xmi:id="_JiVBm-EqEeWCtPq3qsPKaA" name="tSAPOutput" hidden="true" family="Business/SAP"/>
+    <componentsSettings xmi:id="_JiVBnOEqEeWCtPq3qsPKaA" name="tMSAXInput" hidden="true" family="Business/Microsoft_AX"/>
+    <componentsSettings xmi:id="_JiVBneEqEeWCtPq3qsPKaA" name="DI|tSalesforceOutput" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBnuEqEeWCtPq3qsPKaA" name="DI|tMicrosoftCrmOutput" hidden="true" family="Business/Microsoft_CRM"/>
+    <componentsSettings xmi:id="_JiVBn-EqEeWCtPq3qsPKaA" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_JiVBoOEqEeWCtPq3qsPKaA" name="tSageX3Input" hidden="true" family="Business/SageX3"/>
+    <componentsSettings xmi:id="_JiVBoeEqEeWCtPq3qsPKaA" name="tHL7Output" hidden="true" family="Business/Healthcare|Unstructured/HL7"/>
+    <componentsSettings xmi:id="_JiVBouEqEeWCtPq3qsPKaA" name="DI|tBonitaInstantiateProcess" hidden="true" family="Business/Bonita"/>
+    <componentsSettings xmi:id="_JiVBo-EqEeWCtPq3qsPKaA" name="tOpenbravoERPInput" hidden="true" family="Business/Open Bravo"/>
+    <componentsSettings xmi:id="_JiVBpOEqEeWCtPq3qsPKaA" name="DI|tSalesforceOutputBulkExec" hidden="true" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_Mg1aAOEqEeWCtPq3qsPKaA" name="DI|tSQLTemplate" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aAeEqEeWCtPq3qsPKaA" name="DI|tSQLiteConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aAuEqEeWCtPq3qsPKaA" name="DI|tGreenplumConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aA-EqEeWCtPq3qsPKaA" name="DI|tDB2Connection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aBOEqEeWCtPq3qsPKaA" name="DI|tELTNetezzaOutput" hidden="true" family="ELT/Map/Netezza"/>
+    <componentsSettings xmi:id="_Mg1aBeEqEeWCtPq3qsPKaA" name="DI|tSQLTemplateFilterColumns" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aBuEqEeWCtPq3qsPKaA" name="DI|tMysqlConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aB-EqEeWCtPq3qsPKaA" name="DI|tNetezzaConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aCOEqEeWCtPq3qsPKaA" name="DI|tELTMysqlMap" hidden="true" family="ELT/Map/MySQL"/>
+    <componentsSettings xmi:id="_Mg1aCeEqEeWCtPq3qsPKaA" name="DI|tCombinedSQLInput" hidden="true" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_Mg1aCuEqEeWCtPq3qsPKaA" name="DI|tELTNetezzaInput" hidden="true" family="ELT/Map/Netezza"/>
+    <componentsSettings xmi:id="_Mg1aC-EqEeWCtPq3qsPKaA" name="DI|tJDBCConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aDOEqEeWCtPq3qsPKaA" name="DI|tSQLTemplateAggregate" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aDeEqEeWCtPq3qsPKaA" name="DI|tMSSqlConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aDuEqEeWCtPq3qsPKaA" name="DI|tELTMysqlOutput" hidden="true" family="ELT/Map/MySQL"/>
+    <componentsSettings xmi:id="_Mg1aD-EqEeWCtPq3qsPKaA" name="DI|tELTPostgresqlOutput" hidden="true" family="ELT/Map/PostgreSQL"/>
+    <componentsSettings xmi:id="_Mg1aEOEqEeWCtPq3qsPKaA" name="DI|tSQLTemplateFilterRows" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aEeEqEeWCtPq3qsPKaA" name="DI|tELTTeradataMap" hidden="true" family="ELT/Map/Teradata"/>
+    <componentsSettings xmi:id="_Mg1aEuEqEeWCtPq3qsPKaA" name="DI|tAccessConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aFOEqEeWCtPq3qsPKaA" name="DI|tELTGreenplumOutput" hidden="true" family="ELT/Map/Greenplum"/>
+    <componentsSettings xmi:id="_Mg1aFeEqEeWCtPq3qsPKaA" name="DI|tSQLTemplateMerge" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aFuEqEeWCtPq3qsPKaA" name="tInterbaseConnection" hidden="true" family="Databases/AS400|ELT/Connections"/>
+    <componentsSettings xmi:id="_Mg1aF-EqEeWCtPq3qsPKaA" name="DI|tELTOracleInput" hidden="true" family="ELT/Map/Oracle"/>
+    <componentsSettings xmi:id="_Mg1aGOEqEeWCtPq3qsPKaA" name="DI|tELTPostgresqlMap" hidden="true" family="ELT/Map/PostgreSQL"/>
+    <componentsSettings xmi:id="_Mg1aGeEqEeWCtPq3qsPKaA" name="DI|tSQLTemplateCommit" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aGuEqEeWCtPq3qsPKaA" name="DI|tCombinedSQLOutput" hidden="true" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_Mg1aG-EqEeWCtPq3qsPKaA" name="DI|tSQLTemplateRollback" hidden="true" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_Mg1aHOEqEeWCtPq3qsPKaA" name="DI|tCombinedSQLAggregate" hidden="true" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_Mg1aHeEqEeWCtPq3qsPKaA" name="tELTJDBCInput" hidden="true" family="ELT/Map/DB_JDBC"/>
+    <componentsSettings xmi:id="_Mg1aHuEqEeWCtPq3qsPKaA" name="DI|tFirebirdConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aH-EqEeWCtPq3qsPKaA" name="tVectorWiseConnection" hidden="true" family="Databases/AS400|ELT/Connections"/>
+    <componentsSettings xmi:id="_Mg1aIOEqEeWCtPq3qsPKaA" name="DI|tELTSybaseOutput" hidden="true" family="ELT/Map/Sybase"/>
+    <componentsSettings xmi:id="_Mg1aIeEqEeWCtPq3qsPKaA" name="DI|tELTOracleOutput" hidden="true" family="ELT/Map/Oracle"/>
+    <componentsSettings xmi:id="_Mg1aIuEqEeWCtPq3qsPKaA" name="DI|tPostgresPlusConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg1aI-EqEeWCtPq3qsPKaA" name="DI|tELTGreenplumInput" hidden="true" family="ELT/Map/Greenplum"/>
+    <componentsSettings xmi:id="_Mg2BEOEqEeWCtPq3qsPKaA" name="DI|tELTTeradataInput" hidden="true" family="ELT/Map/Teradata"/>
+    <componentsSettings xmi:id="_Mg2BEeEqEeWCtPq3qsPKaA" name="tIngresConnection" hidden="true" family="Databases/AS400|ELT/Connections"/>
+    <componentsSettings xmi:id="_Mg2BEuEqEeWCtPq3qsPKaA" name="DI|tELTSybaseInput" hidden="true" family="ELT/Map/Sybase"/>
+    <componentsSettings xmi:id="_Mg2BE-EqEeWCtPq3qsPKaA" name="DI|tELTMysqlInput" hidden="true" family="ELT/Map/MySQL"/>
+    <componentsSettings xmi:id="_Mg2BFOEqEeWCtPq3qsPKaA" name="tELTJDBCMap" hidden="true" family="ELT/Map/DB_JDBC"/>
+    <componentsSettings xmi:id="_Mg2BFeEqEeWCtPq3qsPKaA" name="DI|tELTOracleMap" hidden="true" family="ELT/Map/Oracle"/>
+    <componentsSettings xmi:id="_Mg2BFuEqEeWCtPq3qsPKaA" name="DI|tHiveConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg2BF-EqEeWCtPq3qsPKaA" name="DI|tELTTeradataOutput" hidden="true" family="ELT/Map/Teradata"/>
+    <componentsSettings xmi:id="_Mg2BGOEqEeWCtPq3qsPKaA" name="DI|tELTPostgresqlInput" hidden="true" family="ELT/Map/PostgreSQL"/>
+    <componentsSettings xmi:id="_Mg2BGeEqEeWCtPq3qsPKaA" name="DI|tELTGreenplumMap" hidden="true" family="ELT/Map/Greenplum"/>
+    <componentsSettings xmi:id="_Mg2BHOEqEeWCtPq3qsPKaA" name="DI|tTeradataConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg2BHeEqEeWCtPq3qsPKaA" name="DI|tSybaseConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg2BHuEqEeWCtPq3qsPKaA" name="DI|tPostgresqlConnection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg2BH-EqEeWCtPq3qsPKaA" name="tELTJDBCOutput" hidden="true" family="ELT/Map/DB_JDBC"/>
+    <componentsSettings xmi:id="_Mg2BIOEqEeWCtPq3qsPKaA" name="DI|tELTNetezzaMap" hidden="true" family="ELT/Map/Netezza"/>
+    <componentsSettings xmi:id="_Mg2BIeEqEeWCtPq3qsPKaA" name="DI|tAS400Connection" hidden="true" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_Mg2BIuEqEeWCtPq3qsPKaA" name="tParAccelConnection" hidden="true" family="Databases/AS400|ELT/Connections"/>
+    <componentsSettings xmi:id="_Mg2BJOEqEeWCtPq3qsPKaA" name="DI|tCombinedSQLFilter" hidden="true" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_Mg2BJeEqEeWCtPq3qsPKaA" name="DI|tELTSybaseMap" hidden="true" family="ELT/Map/Sybase"/>
+    <componentsSettings xmi:id="_Nm-isOEqEeWCtPq3qsPKaA" name="DI|tDotNETRow" hidden="true" family="DotNET"/>
+    <componentsSettings xmi:id="_Nm-iseEqEeWCtPq3qsPKaA" name="DI|tDotNETInstantiate" hidden="true" family="DotNET"/>
+    <componentsSettings xmi:id="_HOnp8KSuEe2qsLJu7BsO8Q" name="DI|tGSBucketList" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp8aSuEe2qsLJu7BsO8Q" name="DI|tHiveRow" hidden="true" family="Big Data/Hive"/>
+    <componentsSettings xmi:id="_HOnp8qSuEe2qsLJu7BsO8Q" name="DI|tGSBucketExist" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp86SuEe2qsLJu7BsO8Q" name="DI|tGSBucketCreate" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp9KSuEe2qsLJu7BsO8Q" name="DI|tGSGet" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp9aSuEe2qsLJu7BsO8Q" name="DI|tGSDelete" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp9qSuEe2qsLJu7BsO8Q" name="DI|tGSCopy" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp96SuEe2qsLJu7BsO8Q" name="DI|tHiveClose" hidden="true" family="Big Data/Hive"/>
+    <componentsSettings xmi:id="_HOnp-KSuEe2qsLJu7BsO8Q" name="DI|tGSClose" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp-aSuEe2qsLJu7BsO8Q" name="DI|tGSConnection" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp-qSuEe2qsLJu7BsO8Q" name="DI|tGSBucketDelete" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp-6SuEe2qsLJu7BsO8Q" name="DI|tGSPut" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp_KSuEe2qsLJu7BsO8Q" name="DI|tHiveConnection" hidden="true" family="Big Data/Hive"/>
+    <componentsSettings xmi:id="_HOnp_aSuEe2qsLJu7BsO8Q" name="DI|tGSList" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnp_qSuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutputBulk" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnp_6SuEe2qsLJu7BsO8Q" name="DI|tSalesforceInput" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqAKSuEe2qsLJu7BsO8Q" name="DI|tSalesforceConnection" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqAaSuEe2qsLJu7BsO8Q" name="DI|tGSConnection" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqAqSuEe2qsLJu7BsO8Q" name="DI|tGSPut" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqA6SuEe2qsLJu7BsO8Q" name="DI|tMarketoOutput" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqBKSuEe2qsLJu7BsO8Q" name="DI|tGSBucketList" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqBaSuEe2qsLJu7BsO8Q" name="DI|tSalesforceBulkExec" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqBqSuEe2qsLJu7BsO8Q" name="DI|tCloudStart" hidden="true" family="Cloud"/>
+    <componentsSettings xmi:id="_HOnqB6SuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqCKSuEe2qsLJu7BsO8Q" name="DI|tGSClose" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqCaSuEe2qsLJu7BsO8Q" name="DI|tGSList" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqCqSuEe2qsLJu7BsO8Q" name="DI|tGSBucketExist" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqC6SuEe2qsLJu7BsO8Q" name="DI|tGSBucketCreate" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqDKSuEe2qsLJu7BsO8Q" name="DI|tGSGet" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqDaSuEe2qsLJu7BsO8Q" name="DI|tGSDelete" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqDqSuEe2qsLJu7BsO8Q" name="DI|tGSCopy" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqD6SuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetDeleted" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqEKSuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetUpdated" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqEaSuEe2qsLJu7BsO8Q" name="DI|tMarketoListOperation" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqEqSuEe2qsLJu7BsO8Q" name="DI|tCloudStop" hidden="true" family="Cloud"/>
+    <componentsSettings xmi:id="_HOnqE6SuEe2qsLJu7BsO8Q" name="DI|tMarketoInput" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqFKSuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutput" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqFaSuEe2qsLJu7BsO8Q" name="DI|tGSBucketDelete" hidden="true" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_HOnqFqSuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutputBulkExec" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqF6SuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutputBulk" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqGKSuEe2qsLJu7BsO8Q" name="DI|tSalesforceInput" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqGaSuEe2qsLJu7BsO8Q" name="DI|tSalesforceConnection" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqGqSuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetDeleted" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqG6SuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetUpdated" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqHKSuEe2qsLJu7BsO8Q" name="DI|tMarketoListOperation" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqHaSuEe2qsLJu7BsO8Q" name="DI|tMarketoOutput" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqHqSuEe2qsLJu7BsO8Q" name="DI|tSalesforceBulkExec" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqH6SuEe2qsLJu7BsO8Q" name="DI|tMarketoInput" hidden="true" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_HOnqIKSuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutput" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqIaSuEe2qsLJu7BsO8Q" name="DI|tSalesforceGetServerTimestamp" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqIqSuEe2qsLJu7BsO8Q" name="DI|tSalesforceOutputBulkExec" hidden="true" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_HOnqI6SuEe2qsLJu7BsO8Q" name="DI|tSQLiteConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqJKSuEe2qsLJu7BsO8Q" name="DI|tGreenplumConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqJaSuEe2qsLJu7BsO8Q" name="DI|tDB2Connection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqJqSuEe2qsLJu7BsO8Q" name="DI|tMysqlConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqJ6SuEe2qsLJu7BsO8Q" name="DI|tNetezzaConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqKKSuEe2qsLJu7BsO8Q" name="DI|tJDBCConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqKaSuEe2qsLJu7BsO8Q" name="DI|tMSSqlConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqKqSuEe2qsLJu7BsO8Q" name="DI|tAccessConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqK6SuEe2qsLJu7BsO8Q" name="DI|tFirebirdConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqLKSuEe2qsLJu7BsO8Q" name="DI|tPostgresPlusConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqLaSuEe2qsLJu7BsO8Q" name="DI|tHiveConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqLqSuEe2qsLJu7BsO8Q" name="DI|tTeradataConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqL6SuEe2qsLJu7BsO8Q" name="DI|tSybaseConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqMKSuEe2qsLJu7BsO8Q" name="DI|tPostgresqlConnection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_HOnqMaSuEe2qsLJu7BsO8Q" name="DI|tAS400Connection" hidden="true" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_GNZdYKY2Ee2pTof4Gswgbw" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_GNZdYaY2Ee2pTof4Gswgbw" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_GNcgsKY2Ee2pTof4Gswgbw" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_GNcgsaY2Ee2pTof4Gswgbw" name="DI|tArray" family="Technical"/>
+    <migrationTask xmi:id="__Lnc0KStEe2qsLJu7BsO8Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_9pNydifOEeGAD_UdZbbVcQ" id="2" login="abordron@europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Aurelien" lastName="Bordron" creationDate="2011-09-29T12:10:46.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q-wMhCfQEeGAD_UdZbbVcQ" id="1" login="admin@company.com" password="21232F297A57A5A743894A0E4A801FC3" firstName="admin" lastName="admin" creationDate="2011-09-27T14:58:11.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q-wMiCfQEeGAD_UdZbbVcQ" id="3" login="aelmowahid@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Abdelkrim" lastName="El Mowahid" creationDate="2011-09-29T12:18:00.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q-wMiifQEeGAD_UdZbbVcQ" id="4" login="kchomaud@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Kristel" lastName="Chomaud" creationDate="2011-09-29T12:20:36.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_X3rbuipGEeGAD_UdZbbVcQ" id="4" login="ilazzem@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Imen" lastName="Lazzem" creationDate="2011-09-29T12:20:36.000+0100" deleted="true" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_OkejZK8LEeGwzvqEdu1X8w" id="1" login="ogares@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Ouahiba" lastName="Gares" creationDate="2011-09-27T14:58:11.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_-ViTQFaeEeOquKraA6PhTg" id="1" login="aabcha@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Anis" lastName="Abcha" creationDate="2011-09-27T14:58:11.000+0100" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="fr" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FNiJcY5QEeOmfr0T-q01Lw" id="3" login="talend@talend.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="talend" lastName="talend" creationDate="2011-09-29T12:18:00.000+0100" lastAdminConnectionDate="2014-02-04T10:44:00.000+0100" lastStudioConnectionDate="2014-02-05T11:16:28.000+0100" firstAdminConnectionDate="2011-09-30T14:36:14.000+0100" firstStudioConnectionDate="2011-09-30T15:17:36.000+0100" adminConnexionNumber="275" studioConnexionNumber="3605" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="en" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_dcJB4BJ7EeS2mpHHaFh-Ww" id="1" login="mnoviant@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Michel" lastName="Noviant" creationDate="2011-09-27T14:58:11.000+0100" lastAdminConnectionDate="2014-07-18T13:19:02.000+0100" lastStudioConnectionDate="2014-07-18T10:15:58.000+0100" firstAdminConnectionDate="2011-09-27T14:59:14.000+0100" firstStudioConnectionDate="2011-09-27T18:12:54.000+0100" adminConnexionNumber="79" studioConnexionNumber="538" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="fr" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_dcJB4RJ7EeS2mpHHaFh-Ww" id="3" login="smakoudi@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Salah" lastName="Makoudi" creationDate="2011-09-29T12:18:00.000+0100" lastAdminConnectionDate="2014-07-23T13:52:57.000+0100" lastStudioConnectionDate="2014-07-21T10:19:36.000+0100" firstAdminConnectionDate="2011-09-30T14:36:14.000+0100" firstStudioConnectionDate="2011-09-30T15:17:36.000+0100" adminConnexionNumber="289" studioConnexionNumber="3660" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="en" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_DUXt0VqzEeSLB5_xJ53ZDA" id="4" login="adiallo@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Diallo" lastName="Abdoullaye" creationDate="2014-10-17T11:41:42.000+0100" lastAdminConnectionDate="2014-10-23T07:59:29.000+0100" lastStudioConnectionDate="2014-10-23T13:48:58.000+0100" firstAdminConnectionDate="2014-10-17T13:19:26.000+0100" firstStudioConnectionDate="2014-10-17T15:42:07.000+0100" adminConnexionNumber="12" studioConnexionNumber="35" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="en" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_E3h4kOM9EeSQUKTsZcQYjg" login="Trigger-Runner" type="DI"/>
+  <TalendProperties:User xmi:id="_KL6O8ObyEea8db75IQYKEg" id="1" login="rsekkal@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Riyadh" lastName="Sekkal" creationDate="2011-09-27T14:58:11.000+0100" lastAdminConnectionDate="2016-05-27T15:00:22.000+0100" lastStudioConnectionDate="2016-06-13T13:47:19.000+0100" firstAdminConnectionDate="2011-09-27T14:59:14.000+0100" firstStudioConnectionDate="2011-09-27T18:12:54.000+0100" adminConnexionNumber="236" studioConnexionNumber="1301" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="fr" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_IUzbUfHSEeaNt6rykScU-A" id="2" login="akamoun@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Amin" lastName="Kammoun" creationDate="2011-09-29T12:10:46.000+0100" lastAdminConnectionDate="2017-02-13T10:37:45.000+0100" lastStudioConnectionDate="2017-02-13T10:51:28.000+0100" firstAdminConnectionDate="2011-09-29T12:13:11.000+0100" firstStudioConnectionDate="2011-09-29T12:44:53.000+0100" adminConnexionNumber="1189" studioConnexionNumber="4416" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_IUzbUvHSEeaNt6rykScU-A" id="2" login="akamoun@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Amin" lastName="Kammoun" creationDate="2011-09-29T12:10:46.000+0100" lastAdminConnectionDate="2017-02-13T10:37:45.000+0100" lastStudioConnectionDate="2017-02-13T10:51:28.000+0100" firstAdminConnectionDate="2011-09-29T12:13:11.000+0100" firstStudioConnectionDate="2011-09-29T12:44:53.000+0100" adminConnexionNumber="1189" studioConnexionNumber="4416" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_Y0Kb8KUXEee8db75IQYKEg" id="1" login="anaji@externe.europ-assistance.com" password="1A254116EB5E70714B0680DFD4D8F7D4" firstName="Anass" lastName="Naji" creationDate="2011-09-27T14:58:11.000+0100" lastAdminConnectionDate="2017-09-29T09:37:30.000+0100" lastStudioConnectionDate="2017-09-29T09:59:04.000+0100" firstAdminConnectionDate="2011-09-27T14:59:14.000+0100" firstStudioConnectionDate="2011-09-27T18:12:54.000+0100" adminConnexionNumber="254" studioConnexionNumber="1351" authenticationInfo="YWRtaW5AY29tcGFueS5jb20=:gqBEeNMTqNc=" language="fr" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_HmKnQKSuEe2qsLJu7BsO8Q" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

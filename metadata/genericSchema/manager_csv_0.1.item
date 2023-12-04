@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_fcwqIqc5Ee2JZ43CfXUF0Q" comment="connectionComment" label="connectionLabel" dataPackage="_fcwqI6c5Ee2JZ43CfXUF0Q"/>
+  <TalendMetadata:GenericPackage xmi:id="_fcwqI6c5Ee2JZ43CfXUF0Q" dataManager="_fcwqIqc5Ee2JZ43CfXUF0Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_fcwqJKc5Ee2JZ43CfXUF0Q" id="_6LbvwKn4Ee2w4pnZFcFK0g" label="manager">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fcwqJac5Ee2JZ43CfXUF0Q" name="EmployeeID" id="2814" label="EmployeeID" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_fcwqJqc5Ee2JZ43CfXUF0Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fcwqJ6c5Ee2JZ43CfXUF0Q" name="ManagerID" id="2815" label="ManagerID" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_fcwqKKc5Ee2JZ43CfXUF0Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fcwqKac5Ee2JZ43CfXUF0Q" name="DepartmentID" id="2816" label="DepartmentID" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_fcwqKqc5Ee2JZ43CfXUF0Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fcwqK6c5Ee2JZ43CfXUF0Q" name="HireDate" id="2817" label="HireDate" length="19" sourceType="DATETIME" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_fcwqLKc5Ee2JZ43CfXUF0Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fcwqLac5Ee2JZ43CfXUF0Q" name="nbEmployees" id="2818" label="nbEmployees" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_fcwqLqc5Ee2JZ43CfXUF0Q"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

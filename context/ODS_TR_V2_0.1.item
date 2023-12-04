@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__mk6iaStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__mk6iqStEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Server" prompt="ODS_TR_V2_Server?" promptNeeded="false" type="id_String" value="sqldvwha01"/>
+  <contextParameter xmi:id="__mk6i6StEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Port" prompt="ODS_TR_V2_Port?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="__mk6jKStEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Database" prompt="ODS_TR_V2_Database?" promptNeeded="false" type="id_String" value="ODS_TR"/>
+  <contextParameter xmi:id="__mk6jaStEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Login" prompt="ODS_TR_V2_Login?" promptNeeded="false" type="id_String" value="gen-dv-talend"/>
+  <contextParameter xmi:id="__mk6jqStEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_AdditionalParams" prompt="ODS_TR_V2_AdditionalParams?" promptNeeded="false" type="id_String" value="domain=EA-HOLDING"/>
+  <contextParameter xmi:id="__mk6j6StEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Password" prompt="ODS_TR_V2_Password?" promptNeeded="false" type="id_String" value="T@lend2008"/>
+  <contextParameter xmi:id="__mk6kKStEe2qsLJu7BsO8Q" comment="" name="ODS_TR_V2_Schema" prompt="ODS_TR_V2_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+</talendfile:ContextType>

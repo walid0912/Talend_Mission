@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__mPjUKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__mPjUaStEe2qsLJu7BsO8Q" comment="" name="Ftp_Host_Ext" prompt="Ftp_Host_Ext?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__mPjUqStEe2qsLJu7BsO8Q" comment="" name="Ftp_Port_Ext" prompt="Ftp_Port_Ext?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="__mPjU6StEe2qsLJu7BsO8Q" comment="" name="Ftp_User_Ext" prompt="Ftp_User_Ext?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__mPjVKStEe2qsLJu7BsO8Q" comment="" name="Ftp_Password_Ext" prompt="Ftp_Password_Ext?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__mPjVaStEe2qsLJu7BsO8Q" comment="" name="Ftp_Remote_Dir_Ext" prompt="Ftp_Remote_Dir_Ext?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

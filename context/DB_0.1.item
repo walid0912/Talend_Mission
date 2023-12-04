@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__k44cKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__k44caStEe2qsLJu7BsO8Q" comment="" name="DTW_Port" prompt="DTW_Port?" promptNeeded="false" type="id_String" value="DEV_TR"/>
+  <contextParameter xmi:id="__k44cqStEe2qsLJu7BsO8Q" comment="" name="DEV_Schema" prompt="DEV_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+  <contextParameter xmi:id="__k44c6StEe2qsLJu7BsO8Q" comment="" name="DEV_Port" prompt="DEV_Port?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="__k44dKStEe2qsLJu7BsO8Q" comment="" name="DEV_Server" prompt="DEV_Server?" promptNeeded="false" type="id_String" value="LAHAVANE"/>
+  <contextParameter xmi:id="__k44daStEe2qsLJu7BsO8Q" comment="" name="DTW_Server" prompt="DTW_Server?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__k44dqStEe2qsLJu7BsO8Q" comment="" name="DTW_Schema" prompt="DTW_Schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__k44d6StEe2qsLJu7BsO8Q" comment="" name="DTW_Database" prompt="DTW_Database?" promptNeeded="false" type="id_String" value="integratedsecurity=true;user=presta;password=presta;domain=EA-HOLDING"/>
+  <contextParameter xmi:id="__k44eKStEe2qsLJu7BsO8Q" comment="" name="DTW_Password" prompt="DTW_Password?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44eaStEe2qsLJu7BsO8Q" comment="" name="DTW_User" prompt="DTW_User?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44eqStEe2qsLJu7BsO8Q" comment="" name="Db_Options" prompt="Db_Options?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44e6StEe2qsLJu7BsO8Q" comment="" name="DEV_User" prompt="DEV_User?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44fKStEe2qsLJu7BsO8Q" comment="" name="DEV_Database" prompt="DEV_Database?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44faStEe2qsLJu7BsO8Q" comment="" name="DEV_Password" prompt="DEV_Password?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44fqStEe2qsLJu7BsO8Q" comment="" name="ODS_Database" prompt="ODS_Database?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44f6StEe2qsLJu7BsO8Q" comment="" name="ODS_User" prompt="ODS_User?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44gKStEe2qsLJu7BsO8Q" comment="" name="ODS_Password" prompt="ODS_Password?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44gaStEe2qsLJu7BsO8Q" comment="" name="Db_Server" prompt="Db_Server?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44gqStEe2qsLJu7BsO8Q" comment="" name="Db_Port" prompt="Db_Port?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__k44g6StEe2qsLJu7BsO8Q" comment="" name="Db_Schema" prompt="Db_Schema?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

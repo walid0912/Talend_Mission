@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__mxHwKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__mxHwaStEe2qsLJu7BsO8Q" comment="" name="File_Name" prompt="File_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHwqStEe2qsLJu7BsO8Q" comment="" name="NumDays" prompt="NumDays?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="__mxHw6StEe2qsLJu7BsO8Q" comment="" name="trt_client" prompt="trt_client?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHxKStEe2qsLJu7BsO8Q" comment="" name="Date" prompt="Date?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHxaStEe2qsLJu7BsO8Q" comment="" name="Fichier" prompt="Fichier?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHxqStEe2qsLJu7BsO8Q" comment="" name="Business_Line" prompt="Business_Line?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHx6StEe2qsLJu7BsO8Q" comment="" name="Nb_Jours" prompt="Nb_Jours?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="__mxHyKStEe2qsLJu7BsO8Q" comment="" name="Nb_Mois" prompt="Nb_Mois?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="__mxHyaStEe2qsLJu7BsO8Q" comment="" name="check_fichier_prec" prompt="check_fichier_prec?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="__mxHyqStEe2qsLJu7BsO8Q" comment="" name="DT_FILE_D" prompt="DT_FILE_D?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHy6StEe2qsLJu7BsO8Q" comment="" name="DT_FILE_M" prompt="DT_FILE_M?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHzKStEe2qsLJu7BsO8Q" comment="" name="DT_RECEIPT_FILE" prompt="DT_RECEIPT_FILE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHzaStEe2qsLJu7BsO8Q" comment="" name="DT_EXTRACT" prompt="DT_EXTRACT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__mxHzqStEe2qsLJu7BsO8Q" comment="" name="contextFile" prompt="contextFile?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__m98EKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__m98EaStEe2qsLJu7BsO8Q" comment="" name="Mail_To" prompt="Mail_To?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98EqStEe2qsLJu7BsO8Q" comment="" name="Mail_From" prompt="Mail_From?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98E6StEe2qsLJu7BsO8Q" comment="" name="file_context" prompt="file_context?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98FKStEe2qsLJu7BsO8Q" comment="" name="Mail_CC" prompt="Mail_CC?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98FaStEe2qsLJu7BsO8Q" comment="" name="Ftp_Password" prompt="Ftp_Password?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98FqStEe2qsLJu7BsO8Q" comment="" name="Ftp_Port" prompt="Ftp_Port?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="__m98F6StEe2qsLJu7BsO8Q" comment="" name="Ftp_Login" prompt="Ftp_Login?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__m98GKStEe2qsLJu7BsO8Q" comment="" name="Ftp_Server" prompt="Ftp_Server?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

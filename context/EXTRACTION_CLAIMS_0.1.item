@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="__lVkYKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="__lVkYaStEe2qsLJu7BsO8Q" comment="" name="source" prompt="source?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkYqStEe2qsLJu7BsO8Q" comment="" name="contract_identifier" prompt="contract_identifier?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkY6StEe2qsLJu7BsO8Q" comment="" name="dernier_jour_mois_m_moins_1" prompt="dernier_jour_mois_m_moins_1?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="__lVkZKStEe2qsLJu7BsO8Q" comment="" name="mois_m" prompt="mois_m?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="__lVkZaStEe2qsLJu7BsO8Q" comment="" name="mois_m_moins_1" prompt="mois_m_moins_1?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="__lVkZqStEe2qsLJu7BsO8Q" comment="" name="nb_lignes" prompt="nb_lignes?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkZ6StEe2qsLJu7BsO8Q" comment="" name="where_command" prompt="where_command?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkaKStEe2qsLJu7BsO8Q" comment="" name="receipt_date" prompt="receipt_date?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="__lVkaaStEe2qsLJu7BsO8Q" comment="" name="periode" prompt="periode?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkaqStEe2qsLJu7BsO8Q" comment="" name="file_name" prompt="file_name?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVka6StEe2qsLJu7BsO8Q" comment="" name="ppuc" prompt="ppuc?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="__lVkbKStEe2qsLJu7BsO8Q" comment="" name="Rep_Fic" prompt="Rep_Fic?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

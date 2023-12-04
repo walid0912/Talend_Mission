@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="__mbwkKStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="__mbwkaStEe2qsLJu7BsO8Q" comment="" name="sql_server_bd_name" prompt="sql_server_bd_name?" promptNeeded="false" type="id_String" value="DTW_TR"/>
+    <contextParameter xmi:id="__mbwkqStEe2qsLJu7BsO8Q" comment="" name="Mysql_port" prompt="Mysql_port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="__mbwk6StEe2qsLJu7BsO8Q" comment="" name="Mysql_user" prompt="Mysql_user?" promptNeeded="false" type="id_String" value="lec_repo"/>
+    <contextParameter xmi:id="__mbwlKStEe2qsLJu7BsO8Q" comment="" name="Mysql_pw" prompt="Mysql_pw?" promptNeeded="false" type="id_String" value="oper_cel321"/>
+    <contextParameter xmi:id="__mbwlaStEe2qsLJu7BsO8Q" comment="" name="sql_server_shema" prompt="sql_server_shema?" promptNeeded="false" type="id_String" value="dbo"/>
+    <contextParameter xmi:id="__mbwlqStEe2qsLJu7BsO8Q" comment="" name="sql_server_hote" prompt="sql_server_hote?" promptNeeded="false" type="id_String" value="SQLDVWHA01"/>
+    <contextParameter xmi:id="__mbwl6StEe2qsLJu7BsO8Q" comment="" name="sql_server_port" prompt="sql_server_port?" promptNeeded="false" type="id_String" value="1433"/>
+    <contextParameter xmi:id="__mbwmKStEe2qsLJu7BsO8Q" comment="" name="sql_server_user" prompt="sql_server_user?" promptNeeded="false" type="id_String" value="gen-dv-talend"/>
+    <contextParameter xmi:id="__mbwmaStEe2qsLJu7BsO8Q" comment="" name="sql_server_pw" prompt="sql_server_pw?" promptNeeded="false" type="id_String" value="T@lend2008"/>
+    <contextParameter xmi:id="__mbwmqStEe2qsLJu7BsO8Q" comment="" name="Mysql_bd_name" prompt="Mysql_bd_name?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwm6StEe2qsLJu7BsO8Q" comment="" name="Mysql_hote" prompt="Mysql_hote?" promptNeeded="false" type="id_String" value="10.11.5.180"/>
+    <contextParameter xmi:id="__mbwnKStEe2qsLJu7BsO8Q" comment="" name="BRIDGE_base" prompt="BRIDGE_base?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwnaStEe2qsLJu7BsO8Q" comment="" name="file_context" prompt="file_context?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwnqStEe2qsLJu7BsO8Q" comment="" name="Extract_file" prompt="Extract_file?" promptNeeded="false" type="id_String" value="C:/Users/hmahmoudi/Desktop/Exctracts_PS.xls"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="__mbwn6StEe2qsLJu7BsO8Q" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="__mbwoKStEe2qsLJu7BsO8Q" comment="" name="sql_server_bd_name" prompt="sql_server_bd_name?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwoaStEe2qsLJu7BsO8Q" comment="" name="Mysql_port" prompt="Mysql_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwoqStEe2qsLJu7BsO8Q" comment="" name="Mysql_user" prompt="Mysql_user?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwo6StEe2qsLJu7BsO8Q" comment="" name="Mysql_pw" prompt="Mysql_pw?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwpKStEe2qsLJu7BsO8Q" comment="" name="sql_server_shema" prompt="sql_server_shema?" promptNeeded="false" type="id_String" value="dbo"/>
+    <contextParameter xmi:id="__mbwpaStEe2qsLJu7BsO8Q" comment="" name="sql_server_hote" prompt="sql_server_hote?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwpqStEe2qsLJu7BsO8Q" comment="" name="sql_server_port" prompt="sql_server_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwp6StEe2qsLJu7BsO8Q" comment="" name="sql_server_user" prompt="sql_server_user?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwqKStEe2qsLJu7BsO8Q" comment="" name="sql_server_pw" prompt="sql_server_pw?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwqaStEe2qsLJu7BsO8Q" comment="" name="Mysql_bd_name" prompt="Mysql_bd_name?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwqqStEe2qsLJu7BsO8Q" comment="" name="Mysql_hote" prompt="Mysql_hote?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwq6StEe2qsLJu7BsO8Q" comment="" name="BRIDGE_base" prompt="BRIDGE_base?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwrKStEe2qsLJu7BsO8Q" comment="" name="file_context" prompt="file_context?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwraStEe2qsLJu7BsO8Q" comment="" name="Extract_file" prompt="Extract_file?" promptNeeded="false" type="id_String" value="null"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="__mbwrqStEe2qsLJu7BsO8Q" confirmationNeeded="false" name="QUA">
+    <contextParameter xmi:id="__mbwr6StEe2qsLJu7BsO8Q" comment="" name="sql_server_bd_name" prompt="sql_server_bd_name?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwsKStEe2qsLJu7BsO8Q" comment="" name="Mysql_port" prompt="Mysql_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwsaStEe2qsLJu7BsO8Q" comment="" name="Mysql_user" prompt="Mysql_user?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwsqStEe2qsLJu7BsO8Q" comment="" name="Mysql_pw" prompt="Mysql_pw?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbws6StEe2qsLJu7BsO8Q" comment="" name="sql_server_shema" prompt="sql_server_shema?" promptNeeded="false" type="id_String" value="dbo"/>
+    <contextParameter xmi:id="__mbwtKStEe2qsLJu7BsO8Q" comment="" name="sql_server_hote" prompt="sql_server_hote?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwtaStEe2qsLJu7BsO8Q" comment="" name="sql_server_port" prompt="sql_server_port?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwtqStEe2qsLJu7BsO8Q" comment="" name="sql_server_user" prompt="sql_server_user?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwt6StEe2qsLJu7BsO8Q" comment="" name="sql_server_pw" prompt="sql_server_pw?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwuKStEe2qsLJu7BsO8Q" comment="" name="Mysql_bd_name" prompt="Mysql_bd_name?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwuaStEe2qsLJu7BsO8Q" comment="" name="Mysql_hote" prompt="Mysql_hote?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwuqStEe2qsLJu7BsO8Q" comment="" name="BRIDGE_base" prompt="BRIDGE_base?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwu6StEe2qsLJu7BsO8Q" comment="" name="file_context" prompt="file_context?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter xmi:id="__mbwvKStEe2qsLJu7BsO8Q" comment="" name="Extract_file" prompt="Extract_file?" promptNeeded="false" type="id_String" value="null"/>
+  </talendfile:ContextType>
+</xmi:XMI>

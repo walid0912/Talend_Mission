@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_qb9igKjBEe2CzfnMMBMe1g" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_qb9igajBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Encoding" prompt="affectation_csv_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="_qb9igqjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_RowSeparator" prompt="affectation_csv_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_qb9ig6jBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Header" prompt="affectation_csv_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_qb9ihKjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_FieldSeparator" prompt="affectation_csv_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_qb9ihajBEe2CzfnMMBMe1g" comment="" name="affectation_csv_File" prompt="affectation_csv_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/Abdelhak Pedro/Documents/Talend_Mission/affectation.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="__eVJEKjBEe2CzfnMMBMe1g" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="__eVJEajBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Encoding" prompt="affectation_csv_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="__eVJEqjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_RowSeparator" prompt="affectation_csv_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="__eVJE6jBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Header" prompt="affectation_csv_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="__eVJFKjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_FieldSeparator" prompt="affectation_csv_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="__eVJFajBEe2CzfnMMBMe1g" comment="" name="affectation_csv_File" prompt="affectation_csv_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/Abdelhak Pedro/Documents/Talend_Mission/affectation.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="__eVJFqjBEe2CzfnMMBMe1g" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="__eVJF6jBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Encoding" prompt="affectation_csv_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="US-ASCII"/>
+    <contextParameter xmi:id="__eVJGKjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_RowSeparator" prompt="affectation_csv_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="__eVJGajBEe2CzfnMMBMe1g" comment="" name="affectation_csv_Header" prompt="affectation_csv_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="__eVJGqjBEe2CzfnMMBMe1g" comment="" name="affectation_csv_FieldSeparator" prompt="affectation_csv_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="__eVJG6jBEe2CzfnMMBMe1g" comment="" name="affectation_csv_File" prompt="affectation_csv_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/Abdelhak Pedro/Documents/Talend_Mission/affectation.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>

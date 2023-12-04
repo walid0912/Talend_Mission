@@ -1,0 +1,72 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Program%20Files%20(x86)/TOS_DI-8.0.1/studio/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/jars/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [file:/C:/Program%20Files%20(x86)/TOS_DI-8.0.1/studio/configuration/org.eclipse.osgi/401/0/.cp/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[INFO] Disabling enhanced local repository: using legacy is strongly discouraged to ensure build reproducibility.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< org.example.mission_talend.job:exercice07_01 >------------
+[INFO] Building MISSION_TALEND exercice07_01-0.1.0 (0.1,Jobs) 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.jboss.marshalling:jboss-marshalling:jar:2.0.12.Final is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-api:jar:2.13.2 is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-core:jar:2.13.2 is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-slf4j-impl:jar:2.13.2 is missing, no dependency information available
+[WARNING] The POM for org.slf4j:slf4j-api:jar:1.7.29 is missing, no dependency information available
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ exercice07_01 ---
+[WARNING] The POM for commons-io:commons-io:jar:2.6 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-core:jar:3.8.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-core:jar:3.0 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.0.0 is missing, no dependency information available
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ exercice07_01 ---
+[WARNING] The POM for org.codehaus.plexus:plexus-utils:jar:3.3.0 is missing, no dependency information available
+[WARNING] The POM for org.codehaus.plexus:plexus-archiver:jar:4.2.1 is missing, no dependency information available
+[WARNING] The POM for org.eclipse.platform:org.eclipse.osgi:jar:3.15.100 is missing, no dependency information available
+[WARNING] The POM for org.codehaus.plexus:plexus-utils:jar:3.1.0 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.16.1 is missing, no dependency information available
+[WARNING] The POM for org.tukaani:xz:jar:1.8 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-compat:jar:3.8.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.21 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:0.1 is missing, no dependency information available
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ exercice07_01 ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ exercice07_01 ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ exercice07_01 ---
+[WARNING] The POM for junit:junit:jar:4.13.2 is missing, no dependency information available
+[WARNING] The POM for junit:junit:jar:4.12 is missing, no dependency information available
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ exercice07_01 ---
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.0.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.11 is missing, no dependency information available
+[INFO] Building jar: C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace\MISSION_TALEND\poms\jobs\process\exercice07_01_0.1\target\exercice07_01_0_1.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ exercice07_01 ---
+[WARNING] The POM for commons-codec:commons-codec:jar:1.15 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.1.0 is missing, no dependency information available
+[WARNING] The POM for commons-codec:commons-codec:jar:1.6 is missing, no dependency information available
+[INFO] Reading assembly descriptor: C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace\MISSION_TALEND\poms\jobs\process\exercice07_01_0.1/src/main/assemblies/assembly.xml
+[WARNING] Missing POM for org.jboss.marshalling:jboss-marshalling:jar:2.0.12.Final
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-api:jar:2.13.2
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-core:jar:2.13.2
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-slf4j-impl:jar:2.13.2
+[WARNING] Missing POM for org.slf4j:slf4j-api:jar:1.7.29
+[WARNING] Missing POM for org.jboss.marshalling:jboss-marshalling:jar:2.0.12.Final
+[WARNING] Missing POM for org.slf4j:slf4j-api:jar:1.7.29
+[INFO] Building zip: C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace\MISSION_TALEND\poms\jobs\process\exercice07_01_0.1\target\exercice07_01_0_1.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  8.127 s
+[INFO] Finished at: 2023-02-10T12:21:09+01:00
+[INFO] ------------------------------------------------------------------------

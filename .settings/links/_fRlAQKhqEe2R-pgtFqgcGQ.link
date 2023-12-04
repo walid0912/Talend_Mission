@@ -1,0 +1,61 @@
+{
+  "itemId" : "_fRlAQKhqEe2R-pgtFqgcGQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_qbgPgKjBEe2CzfnMMBMe1g",
+    "parameterList" : [ {
+      "id" : "_qb9igajBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Encoding"
+    }, {
+      "id" : "_qb9igqjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_RowSeparator"
+    }, {
+      "id" : "_qb9ig6jBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Header"
+    }, {
+      "id" : "_qb9ihKjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_FieldSeparator"
+    }, {
+      "id" : "_qb9ihajBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_File"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_qbgPgKjBEe2CzfnMMBMe1g",
+    "parameterList" : [ {
+      "id" : "__eVJF6jBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Encoding"
+    }, {
+      "id" : "__eVJGKjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_RowSeparator"
+    }, {
+      "id" : "__eVJGajBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Header"
+    }, {
+      "id" : "__eVJGqjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_FieldSeparator"
+    }, {
+      "id" : "__eVJG6jBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_File"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_qbgPgKjBEe2CzfnMMBMe1g",
+    "parameterList" : [ {
+      "id" : "__eVJEajBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Encoding"
+    }, {
+      "id" : "__eVJEqjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_RowSeparator"
+    }, {
+      "id" : "__eVJE6jBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_Header"
+    }, {
+      "id" : "__eVJFKjBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_FieldSeparator"
+    }, {
+      "id" : "__eVJFajBEe2CzfnMMBMe1g",
+      "name" : "affectation_csv_File"
+    } ]
+  } ]
+}

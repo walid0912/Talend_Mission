@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_l0lL4Ki6Ee2CzfnMMBMe1g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_l0lL4ai6Ee2CzfnMMBMe1g" comment="" name="DepartmentID" prompt="DepartmentID?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="context.DepartmentID"/>
+  <contextParameter xmi:id="_l0lL4qi6Ee2CzfnMMBMe1g" comment="" name="ManagerID" prompt="ManagerID?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="context.ManagerID"/>
+  <contextParameter xmi:id="_l0lL46i6Ee2CzfnMMBMe1g" comment="" name="sample" prompt="sample?" promptNeeded="true" repositoryContextId="built-in" type="id_Integer" value="context.sample"/>
+</talendfile:ContextType>
